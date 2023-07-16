@@ -12,7 +12,15 @@ To run the examples, you will need numpy, pandas, sklearn, [imblearn](https://py
 
 ## References
 
+To reference Capture-24 in your work:
+
+**Chan** S, Walmsley R, Gershuny J, Harms T, Thomas E, Milton K, Kelly P, Foster C, Wong A, Gray N, Haque S, Hollowell S, Doherty A (2021) [Capture-24: Activity tracker dataset for human activity recognition](https://ora.ox.ac.uk/objects/uuid:99d7c092-d865-4a19-b096-cc16440cd001). **University of Oxford**.
+
 Papers featuring the Capture-24 dataset:
+
+**Farrahi** V, Muhammad U, Rostami M, Oussalah M (2023) [AccNet24: A deep learning framework for classifying 24-hour activity behaviours from wrist-worn accelerometer data under free-living environments](https://www.sciencedirect.com/science/article/pii/S1386505623000217#b0125). **International Journal of Medical Informatics** doi: 10.1016/j.ijmedinf.2023.105004
+
+**Yuan** H, **Chan** S, Creagh A, Tong C, Clifton D, Doherty A (2022) [Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data](https://arxiv.org/abs/2206.02909). doi: 10.48550/arXiv.2206.02909
 
 **Walmsley** R, Chan S, Smith-Byrne K, Ramakrishnan R, Smith-Byrne K, Woodward M, Rahimi K, Dwyer T, Bennett D, Doherty A (2021) [Reallocating time from device-measured sleep, sedentary behaviour or light physical activity to moderate-to-vigorous physical activity is associated with lower cardiovascular disease risk](https://bjsm.bmj.com/content/early/2021/09/06/bjsports-2021-104050). **British Journal of Sports Medicine** doi: 10.1136/bjsports-2021-104050
 
